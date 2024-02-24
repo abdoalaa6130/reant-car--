@@ -1,0 +1,174 @@
+﻿@model  RentCars.Models.UserOrderModel
+
+@{
+    /**/
+
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<style>
+    .button {
+        background-color: cornflowerblue;
+        border: none;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 150px;
+        border-radius: 2px;
+        width: 700px;
+    }
+
+    .containerr {
+        width: 1000px;
+        height: 300px;
+        border: 5px solid blue;
+        display: grid;
+        align-content: center;
+        margin-left: 200px;
+    }
+
+    .input {
+        margin-left: 100px;
+        border-radius: 4px;
+    }
+</style>
+<div id="preloader">
+    <div class="jumper">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<!-- ***** Preloader End ***** -->
+<!-- Header -->
+<header class="">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href=""><h2>Rent <em>Cars</em></h2></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="~/Home/Index?email=@Model.email">
+                            الرئيسية
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="AllProducts?email=@Model.email">جميع السيارات</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="yourCard?email=@Model.email">حجوزاتك</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<br /><br /><br /><br />
+@if (Model.rentRequsts.Count() == 0)
+{
+    <h2 style="text-align:center">لا توجد استمارات</h2>
+}
+else
+{
+    <div class="product-detail">
+        <h2 style="text-align:center">حجوزاتك </h2>
+
+        <table class="table" dir="rtl">
+            <tr>
+                <th>
+                    رقم العملية
+                </th>
+
+
+
+                <th>
+                    ماركة السيارة
+                </th>
+
+                <th>
+                    الموديل
+                </th>
+                <th>
+                    المدة
+                </th>
+                <th>
+                    الصورة
+                </th>
+                <th>
+                    المبلغ
+                </th>
+
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.rentRequsts)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+
+
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mark)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Model)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RentDuration)
+                    </td>
+                    <td>
+                        <img src="@Url.Content(item.Image)" width="100" height="100" alt="Product Image">
+
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.total)
+
+                    </td>
+                    <td>
+                        @Html.ActionLink("الغاء الحجز", "Deleteuserorder", new { id = item.Id })
+
+                    </td>
+
+
+
+                </tr>
+            }
+
+
+        </table>
+
+    </div>
+    <h2 style="text-align:center">الدفع </h2>
+    <br>
+    <div class="containerr">
+        <div class="row">
+            <div class="row">
+
+                @*<div class="col-md-6 ">
+                    <a href="~/Home/cash?email=@Model.email" class="button">فيزا</a><br /><br />
+                    <input class="input" type="text" dir="rtl" placeholder="ادخل رقم الفيزا" required />
+                </div>*@
+                <div class="col-md-12">
+                    <a href="~/Home/visa?email=@Model.email" class="button">كاش</a>
+                </div>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <br /><br /><br />
+}

@@ -1,0 +1,406 @@
+C:\Users\PC\source\repos\RentCars\RentCars\bin\RentCars.dll.config
+C:\Users\PC\source\repos\RentCars\RentCars\bin\RentCars.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\RentCars.pdb
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csc.exe
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csc.exe.config
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csc.rsp
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csi.exe
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csi.exe.config
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\csi.rsp
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.AppContext.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Console.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\vbc.exe
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\vbc.exe.config
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\vbc.rsp
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\source\repos\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Antlr3.Runtime.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\EntityFramework.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Helpers.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Mvc.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Optimization.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Razor.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\WebGrease.dll
+C:\Users\PC\source\repos\RentCars\RentCars\bin\EntityFramework.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Helpers.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Mvc.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Optimization.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.Razor.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Antlr3.Runtime.pdb
+C:\Users\PC\source\repos\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\source\repos\RentCars\RentCars\obj\Debug\RentCars.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\RentCars\RentCars\obj\Debug\RentCars.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RentCars\RentCars\obj\Debug\RentCars.csproj.CopyComplete
+C:\Users\PC\source\repos\RentCars\RentCars\obj\Debug\RentCars.dll
+C:\Users\PC\source\repos\RentCars\RentCars\obj\Debug\RentCars.pdb
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\RentCars.dll.config
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\RentCars.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\RentCars.pdb
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csc.exe
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csc.exe.config
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csc.rsp
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csi.exe
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csi.exe.config
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\csi.rsp
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.Managed.Core.targets
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.AppContext.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Collections.Immutable.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Console.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Compression.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Pipes.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Reflection.Metadata.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.AccessControl.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Claims.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Principal.Windows.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.ValueTuple.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XmlDocument.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XPath.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.exe
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.exe.config
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.rsp
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe.config
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Antlr3.Runtime.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\EntityFramework.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\EntityFramework.SqlServer.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.Web.Infrastructure.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Newtonsoft.Json.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Helpers.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Mvc.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Optimization.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Razor.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Deployment.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Razor.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\WebGrease.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\EntityFramework.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\EntityFramework.SqlServer.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Helpers.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Mvc.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Optimization.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.Razor.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Deployment.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Razor.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Newtonsoft.Json.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Antlr3.Runtime.pdb
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csproj.CoreCompileInputs.cache
+F:\projects\project2022\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csproj.CopyComplete
+F:\projects\project2022\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.pdb
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.CoreUtility.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ImageCatalog.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Imaging.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.15.0.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Framework.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Text.Data.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Threading.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Validation.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\StreamJsonRpc.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\stdole.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.VSHelp.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Telemetry.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\System.Threading.Tasks.Dataflow.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\EnvDTE.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.GraphModel.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.MSXML.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.RemoteControl.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.CoreUtility.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ImageCatalog.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Imaging.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.OLE.Interop.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.15.0.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Framework.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Text.Data.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Threading.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Validation.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\StreamJsonRpc.xml
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\cs\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\de\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\es\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\fr\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\it\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ja\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ko\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pl\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\pt-BR\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\ru\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\tr\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hans\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\bin\zh-Hant\StreamJsonRpc.resources.dll
+F:\projects\project2022\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csprojAssemblyReference.cache
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\RentCars.dll.config
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\RentCars.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\RentCars.pdb
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csc.exe
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csc.exe.config
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csc.rsp
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csi.exe
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csi.exe.config
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\csi.rsp
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.Managed.Core.targets
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.AppContext.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Collections.Immutable.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Console.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Compression.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.IO.Pipes.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Reflection.Metadata.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.AccessControl.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Claims.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Security.Principal.Windows.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.ValueTuple.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XmlDocument.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XPath.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.exe
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.exe.config
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\vbc.rsp
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\roslyn\VBCSCompiler.exe.config
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Antlr3.Runtime.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\EntityFramework.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\EntityFramework.SqlServer.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.CoreUtility.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ImageCatalog.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Imaging.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.15.0.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Framework.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Text.Data.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Threading.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Validation.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.Web.Infrastructure.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Newtonsoft.Json.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\StreamJsonRpc.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Helpers.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Mvc.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Optimization.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Razor.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Deployment.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Razor.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\WebGrease.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\stdole.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.VSHelp.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Telemetry.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Threading.Tasks.Dataflow.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\EnvDTE.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.GraphModel.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.MSXML.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.RemoteControl.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\EntityFramework.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\EntityFramework.SqlServer.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.CoreUtility.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.ImageCatalog.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Imaging.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.OLE.Interop.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.15.0.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Framework.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Text.Data.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Threading.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Utilities.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.VisualStudio.Validation.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\StreamJsonRpc.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Helpers.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Mvc.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Optimization.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.Razor.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Deployment.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\System.Web.WebPages.Razor.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Newtonsoft.Json.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Antlr3.Runtime.pdb
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\cs\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\de\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\es\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\fr\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\it\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ja\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ko\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pl\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\pt-BR\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\ru\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\tr\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hans\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\bin\zh-Hant\StreamJsonRpc.resources.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csprojAssemblyReference.cache
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csproj.CoreCompileInputs.cache
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.csproj.CopyComplete
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.dll
+F:\projects\project2022\مشاريع خلصت\Rent cars project\RentCars\RentCars\obj\Debug\RentCars.pdb

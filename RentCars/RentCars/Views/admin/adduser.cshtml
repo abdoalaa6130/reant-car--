@@ -1,0 +1,66 @@
+﻿@model RentCars.Models.User
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="page-heading about-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-content">
+                    <h4>Login in Admin</h4>
+                    <h2>Area</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="team-members">
+    <div class="container">
+
+    </div>
+</div>
+@using (Html.BeginForm("adduser", "admin", FormMethod.Post, new { name = "sg", enctype = "multipart/form-data" }))
+{
+    <h1 align="center" style="color:red">@Model.mess</h1>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-12 form-group">
+                <h4 align="right">اسم المستخدم</h4>
+                <div class="input-group">
+                    <input name="UserName" type="text" dir="rtl" class="form-control" required />
+                </div>
+            </div>
+            <div class="col-sm-12 form-group">
+                <h4 align="right">هاتف المستخدم</h4>
+                <div class="input-group">
+                    <input name="Phone" type="number" dir="rtl" class="form-control" required />
+                </div>
+            </div>
+            <div class="col-sm-12 form-group">
+                <h4 align="right">البريد الالكترونى</h4>
+                <div class="input-group">
+                    <input name="Email" type="email" dir="rtl" class="form-control" required />
+                </div>
+            </div>
+            <div class="col-sm-12 form-group">
+                <h4 align="right"> كلمة المرور</h4>
+                <div class="input-group">
+                    <input name="Password" type="password" dir="rtl" class="form-control" required />
+
+                </div>
+            </div>
+            <div class="form-group">
+                @*<asp:Button ID="Button1" runat="server" Text="Log In" class="form-control  btn-success" OnClick="Button1_Click" OnClientClick="retrun(passwordmatchfunc())" />*@
+                <input type="submit" value="تسجيل " class="btn btn-success btn-block" />
+
+            </div>
+        </div>
+    </div>
+}

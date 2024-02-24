@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RentCarModelStoreContainer" CdmEntityContainer="RentCarEntities">
+    <EntitySetMapping Name="cars">
+      <EntityTypeMapping TypeName="RentCarModel.cars">
+        <MappingFragment StoreEntitySet="cars">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Mark" ColumnName="Mark" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="cat" ColumnName="cat" />
+          <ScalarProperty Name="No" ColumnName="No" />
+          <ScalarProperty Name="adaptation" ColumnName="adaptation" />
+          <ScalarProperty Name="NoOfDoors" ColumnName="NoOfDoors" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="priceForDay" ColumnName="priceForDay" />
+          <ScalarProperty Name="book" ColumnName="book" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RentRequst">
+      <EntityTypeMapping TypeName="RentCarModel.RentRequst">
+        <MappingFragment StoreEntitySet="RentRequst">
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CarId" ColumnName="CarId" />
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CustomerPhone" ColumnName="CustomerPhone" />
+          <ScalarProperty Name="Rentduration" ColumnName="Rentduration" />
+          <ScalarProperty Name="total" ColumnName="total" />
+          <ScalarProperty Name="deliverydate" ColumnName="deliverydate" />
+          <ScalarProperty Name="Occasion" ColumnName="Occasion" />
+          <ScalarProperty Name="Additions" ColumnName="Additions" />
+          <ScalarProperty Name="Pay" ColumnName="Pay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="RentCarModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

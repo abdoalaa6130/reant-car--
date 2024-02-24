@@ -1,0 +1,70 @@
+﻿@model IEnumerable<RentCars.Models.User>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="page-heading about-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-content">
+                    <h4>Login in Admin</h4>
+                    <h2>Area</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="team-members">
+    <div class="container">
+
+    </div>
+</div>
+<div class="col-5">
+    <a href="~/admin/adduser" class="btn btn-danger" >اضف موظف جديد</a>
+</div>
+<br />
+<table class="table">
+    <tr>
+        <th>
+            الاسم
+        </th>
+        <th>
+            الهاتف
+        </th>
+        <th>
+            الايميل
+        </th>
+        <th>
+            كلمة المرور
+        </th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+          
+          
+        </tr>
+    }
+
+</table>
+

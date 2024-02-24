@@ -1,0 +1,64 @@
+﻿@model RentCars.Models.usercarmodel
+@{
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<div id="preloader">
+    <div class="jumper">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<!-- ***** Preloader End ***** -->
+<!-- Header -->
+<header class="">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href=""><h2>Rent <em>Cars</em></h2></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="~/Home/Index?email=@Model.email">
+                            الرئيسية
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="AllProducts?email=@Model.email">جميع السيارات</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="yourCard?email=@Model.email">حجوزاتك</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<br /><br /><br /><br /><br />
+<div class="col-md-12">
+    <div class="filters-content">
+        <div class="row grid">
+            @foreach (var item in Model.carmodels)
+            {
+                <div class="col-lg-4 col-md-4 all des">
+
+                    <div class="product-item">
+                        <a href="#"><img src="@Url.Content(item.Image)" width="200" height="400" alt=""></a>
+                        <div class="down-content">
+                            <h4 style="text-align:center"><a href="singleProduct?idcar=@item.Id&&email=@Model.email">@item.Mark @item.Model</a></h4>
+                            <h4 style="text-align:center">  @item.priceForDay EGP : السعر فى اليوم</h4>
+
+                        </div>
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RentCarModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cars">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Mark" Type="nvarchar" MaxLength="50" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" />
+    <Property Name="cat" Type="nvarchar" MaxLength="50" />
+    <Property Name="No" Type="int" />
+    <Property Name="adaptation" Type="nvarchar" MaxLength="50" />
+    <Property Name="NoOfDoors" Type="int" />
+    <Property Name="Image" Type="nvarchar" MaxLength="50" />
+    <Property Name="priceForDay" Type="int" />
+    <Property Name="book" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="RentRequst">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CarId" Type="nvarchar" MaxLength="50" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CustomerPhone" Type="int" />
+    <Property Name="Rentduration" Type="int" />
+    <Property Name="total" Type="int" />
+    <Property Name="deliverydate" Type="date" />
+    <Property Name="Occasion" Type="nvarchar" MaxLength="50" />
+    <Property Name="Additions" Type="nvarchar(max)" />
+    <Property Name="Pay" Type="nvarchar" MaxLength="50" />
+    <Property Name="email" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="type" Type="nvarchar" MaxLength="50" />
+    <Property Name="image" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="RentCarModelStoreContainer">
+    <EntitySet Name="cars" EntityType="Self.cars" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RentRequst" EntityType="Self.RentRequst" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

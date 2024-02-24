@@ -1,0 +1,238 @@
+﻿@model RentCars.Models.cars
+@{
+    /**/
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br /><br /><br />
+@using (Html.BeginForm("Products", "admin", FormMethod.Post, new { name = "sg", enctype = "multipart/form-data" }))
+{
+    if (Model != null)
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-md-offset-5">
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right">ماركة السيارة</h4>
+                            <div class="input-group">
+                                @Html.TextBoxFor(x => x.Mark, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> موديل السيارة</h4>
+                            <div class="input-group">
+                                @Html.TextBoxFor(x => x.Model, new { @class = "form-control" })
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 form-group">
+                            @if (Model != null)
+                            {
+                                <h4 align="right"> النوع</h4>
+                                <select name="cat" class="form-control" required>
+                                    <option value="hp">@Model.cat</option>
+
+                                    <option value="ملاكى">ملاكى</option>
+                                    <option value="فان">فان</option>
+                                    <option value="نقل أثاث">نقل أثاث</option>
+
+
+                                </select>
+                            }
+                            else
+                            {
+                                <h4 align="right">النوع</h4>
+                                <select name="cat" class="form-control" required>
+                                    <option value="ملاكى">ملاكى</option>
+                                    <option value="فان">فان</option>
+                                    <option value="نقل أثاث">نقل أثاث</option>
+
+                                </select>
+                            }
+
+
+                        </div>
+                        @if (Model != null)
+                        {
+
+                            <p align="right" style="font-size:large"></p>
+                            <div class="input-group">
+                                @Html.HiddenFor(x => x.Image, new { @class = "form-control" })
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-sm-6 form-group">
+
+                                <p align="right" style="font-size:large">ارفع صورة</p>
+                                <div class="input-group">
+
+                                    <input class="form-control" dir="ltr" type="file" name="imgfile" required />
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> عدد الركاب</h4>
+                            <div class="input-group">
+
+                                @Html.TextBoxFor(x => x.No, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right">التهوية</h4>
+                            <div class="input-group">
+                                @Html.TextBoxFor(x => x.adaptation, new { @class = "form-control" })
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> عدد الابواب</h4>
+                            <div class="input-group">
+                                @Html.TextBoxFor(x => x.NoOfDoors, new { @class = "form-control" })
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> سعر التأجير فى اليوم</h4>
+                            <div class="input-group">
+                                @Html.TextBoxFor(x => x.priceForDay, new { @class = "form-control" })
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-sm-12 form-group">
+                            <button type="submit" class="btn btn-danger" id="btnContactUs">حفظ </button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-md-offset-5">
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right">ماركة السيارة</h4>
+                            <div class="input-group">
+                                <input name="Mark" dir="rtl" class="form-control" required />
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> موديل السيارة</h4>
+                            <div class="input-group">
+                                <input name="Model" dir="rtl" class="form-control" required />
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 form-group">
+                           
+                                <h4 align="right">النوع</h4>
+                                <select name="cat" class="form-control" required>
+                                    <option value="ملاكى">ملاكى</option>
+                                    <option value="فان">فان</option>
+                                    <option value="نقل أثاث">نقل أثاث</option>
+
+                                </select>
+                           
+
+
+                        </div>
+                       
+                            <div class="col-sm-6 form-group">
+
+                                <p align="right" style="font-size:large">ارفع صورة</p>
+                                <div class="input-group">
+
+                                    <input class="form-control" dir="ltr" type="file" name="imgfile" required />
+                                </div>
+                            </div>
+                       
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> عدد الركاب</h4>
+                            <div class="input-group">
+                                <input name="No" type="number" dir="rtl" class="form-control" required />
+
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right">التهوية</h4>
+                            <div class="input-group">
+                                <div class="col-sm-6 form-group">
+
+                                    <select name="adaptation" class="form-control" required>
+                                        <option value="يوجد تكيف">يوجد تكيف</option>
+                                        <option value="يوجد مروجة">يوجد مروحة</option>
+
+                                    </select>
+
+
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> عدد الابواب</h4>
+                            <div class="input-group">
+                                <input name="NoOfDoors" type="number" dir="rtl" class="form-control" required />
+
+
+                            </div>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <h4 align="right"> سعر التأجير فى اليوم</h4>
+                            <div class="input-group">
+                                <input name="priceForDay" type="text" dir="rtl" class="form-control" required />
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-sm-12 form-group">
+                            <button type="submit" class="btn btn-danger" id="btnContactUs">حفظ </button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+}
+
+
+
+
+
+
+
